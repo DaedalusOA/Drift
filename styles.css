@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+    overflow: hidden;
+    background-color: black;
+  }
+  
+
+  h2 {
+    z-index: 2; /* Higher z-index to appear above the canvas */
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Quicksand", serif;
+    user-select: none; /* Prevents text selection */
+  }
+  a {
+    z-index: 2; /* Higher z-index to appear above the canvas */
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Quicksand", serif;
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    z-index: 2;
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    user-select: none; /* Prevents text selection */
+  }
+ 
+  .drop{
+    z-index: 2; /* Higher z-index to appear above the canvas */
+    position: absolute;
+    top: 120px;
+    left: 20px;
+    color: rgba(255, 255, 255, 0.8);
+
+  }
+  .imageInput{
+    background-color: red;
+  }
+  .t1 {
+    position: absolute;
+    top: 40px;
+    left: 20px;
+    z-index: 2;
+  }
+  .t2 {
+    position: absolute;
+    top: 62px;
+    left: 20px;
+    z-index: 2;
+  }
+  .t4 {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    z-index: 2;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.25);
+  }
+  .t5 {
+    position: absolute;
+    bottom: 0px;
+    left: 20px;
+    z-index: 2;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.);
+  }
+ 
