@@ -1,5 +1,6 @@
 # Drift
-<img width="603" alt="drift" src="https://github.com/user-attachments/assets/d899e4d0-38a8-46ad-a929-88fce40778d6">
+
+<img width="1134" alt="Screenshot 2024-11-26 at 7 39 31 AM" src="https://github.com/user-attachments/assets/e30c9b19-bb42-46c3-90a0-287e0dae317e">
 
 Simple Drifting Car Phyics
 It is live at: 
